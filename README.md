@@ -1,8 +1,8 @@
 Go based presentations
 ----------------------
 
-* [Sample](http://blog.joshsoftware.com/2014/03/10/how-do-i-create-a-presentation-using-go/)
-* [Why Go?](http://go-talks.appspot.com/github.com/SatishTalim/slides/whygo.slide)
+* [Sample](https://talks.godoc.org/github.com/drashtived03/goslides/sample.slide)
+* [Why Go?](https://talks.godoc.org/github.com/drashtived03/goslides/sample.slide)
 
 Enjoy!!
 
