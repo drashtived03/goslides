@@ -14,6 +14,7 @@ Drashti Ved
 
 Strings are UTF-8 encoded 
 .play string/stringEncoding/main.go /^func main/,/^}/
+: Presenter notes (first paragraph)
 
 * Strings cont...
 .play string/stringUnicode/main.go /^func main/,/^}/
@@ -68,6 +69,10 @@ Struct fields can also be functions.
 * Comparing structs
 Two structs are comparable if they belong to the same type and have the same field values. If a struct has field type which is not comparable, for example, map which is not comparable, then the struct won’t be comparable. 
 .play struct/compareStruct/main.go /^func main/,/^//End/
+
+* Methods with struct
+#A method is nothing but a function, but it belongs to a certain type. 
+.play struct/method/main.go /^type/,/^} //End/
 
 * Meta data
 Used to provide transformation info on how a struct field is encoded to or decoded from another format (or stored/retrieved from a database)
