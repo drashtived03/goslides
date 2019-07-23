@@ -5,10 +5,10 @@ Tags: go golang
 Drashti Ved
 
 * Agenda
-.link http://127.0.0.1:3999/sample.slide#3 Strings
-.link http://127.0.0.1:3999/sample.slide#9 Struct
-.link http://127.0.0.1:3999/sample.slide#17 Defer, Panic and Recover
-.link http://127.0.0.1:3999/sample.slide#23 Timer and Ticker
+- Strings
+- Struct
+- Defer, Panic and Recover
+- Timer and Ticker
 
 * Strings in Go
 
